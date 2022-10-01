@@ -8,8 +8,8 @@
 .carousel {
   --carousel-height: 400px;
   --carousel-width: 1000px;
-  --carousel-item-height: 150px;
-  --carousel-item-width: 150px;
+  --carousel-item-height: 160px;
+  --carousel-item-width: 160px;
 
   width: 100%;
 }
